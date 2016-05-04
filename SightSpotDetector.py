@@ -25,8 +25,8 @@ import SightSpotUtil
 class SightSpotDetector():
 
     # Global constants.
-    _SMALL_BLUR_RATIO = 0.1
-    _LARGE_BLUR_RATIO = 0.15
+    _SMALL_BLUR_RATIO = 0.092
+    _LARGE_BLUR_RATIO = 1.84
     _CELL_SIZE_RATIO = 1.0
     _SLIC_ALPHA = 0.25
     _ITERATION_NUMBER = 4
